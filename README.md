@@ -1,30 +1,39 @@
-JAVA-DSA
+# JAVA-DSA
 
 A collection of Data Structures and Algorithms (DSA) programs implemented in Java.
 
-How to Run
+## 🚀 How to Run
 
-Clone the repository:
+### Clone the repository
 
+```bash
 git clone https://github.com/aniketbodkhe05/JAVA-DSA.git
+```
 
-Navigate to the project folder:
+### Navigate to the project folder
 
+```bash
 cd JAVA-DSA
+```
 
-Compile the Java file:
+### Compile the Java file
 
+```bash
 javac FileName.java
+```
 
-Run the program:
+### Run the program
 
+```bash
 java FileName
-🎯 Goal
+```
+
+## 🎯 Goal
 
 This repository is created to strengthen Java programming and DSA skills through consistent practice and problem-solving.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Aniket Bodkhe
+**Aniket Bodkhe**
 
 GitHub: https://github.com/aniketbodkhe05
